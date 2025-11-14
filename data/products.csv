@@ -1,0 +1,101 @@
+product_id,name,category,price
+1,Smartphone 1,Electronics,323.32
+2,Smartphone 2,Electronics,22.26
+3,Smartphone 3,Electronics,144.76
+4,Laptop 1,Electronics,119.37
+5,Laptop 2,Electronics,370.87
+6,Laptop 3,Electronics,341.58
+7,Headphones 1,Electronics,447.17
+8,Headphones 2,Electronics,52.6
+9,Headphones 3,Electronics,216.74
+10,Smart Watch 1,Electronics,24.6
+11,Smart Watch 2,Electronics,117.13
+12,Smart Watch 3,Electronics,257.62
+13,Tablet 1,Electronics,23.0
+14,Tablet 2,Electronics,107.43
+15,Tablet 3,Electronics,328.44
+16,Camera 1,Electronics,277.02
+17,Camera 2,Electronics,118.02
+18,Camera 3,Electronics,298.74
+19,Speaker 1,Electronics,406.62
+20,Speaker 2,Electronics,13.18
+21,Speaker 3,Electronics,404.85
+22,Monitor 1,Electronics,352.09
+23,Monitor 2,Electronics,176.72
+24,Monitor 3,Electronics,86.18
+25,T-Shirt 1,Clothing,479.03
+26,T-Shirt 2,Clothing,174.93
+27,T-Shirt 3,Clothing,55.45
+28,Jeans 1,Clothing,57.39
+29,Jeans 2,Clothing,425.27
+30,Jeans 3,Clothing,305.83
+31,Dress 1,Clothing,405.49
+32,Dress 2,Clothing,367.57
+33,Dress 3,Clothing,272.75
+34,Jacket 1,Clothing,486.83
+35,Jacket 2,Clothing,195.48
+36,Jacket 3,Clothing,280.5
+37,Sneakers 1,Clothing,416.41
+38,Sneakers 2,Clothing,313.07
+39,Sneakers 3,Clothing,432.24
+40,Hat 1,Clothing,292.9
+41,Hat 2,Clothing,355.24
+42,Hat 3,Clothing,32.45
+43,Socks 1,Clothing,121.67
+44,Socks 2,Clothing,151.8
+45,Socks 3,Clothing,49.1
+46,Sweater 1,Clothing,124.07
+47,Sweater 2,Clothing,59.49
+48,Sweater 3,Clothing,146.21
+49,Novel 1,Books,321.49
+50,Novel 2,Books,188.77
+51,Novel 3,Books,191.39
+52,Textbook 1,Books,112.66
+53,Textbook 2,Books,140.82
+54,Textbook 3,Books,468.96
+55,Cookbook 1,Books,327.54
+56,Cookbook 2,Books,308.47
+57,Cookbook 3,Books,93.86
+58,Biography 1,Books,367.27
+59,Biography 2,Books,90.07
+60,Biography 3,Books,195.93
+61,Mystery 1,Books,494.87
+62,Mystery 2,Books,323.6
+63,Mystery 3,Books,282.91
+64,Science Fiction 1,Books,345.46
+65,Science Fiction 2,Books,423.0
+66,Science Fiction 3,Books,390.24
+67,Fantasy 1,Books,122.23
+68,Fantasy 2,Books,25.73
+69,Fantasy 3,Books,164.57
+70,Self-Help 1,Books,141.19
+71,Self-Help 2,Books,113.38
+72,Self-Help 3,Books,472.03
+73,Lamp 1,Home,439.42
+74,Lamp 2,Home,164.19
+75,Lamp 3,Home,331.16
+76,Desk 1,Home,203.86
+77,Desk 2,Home,458.13
+78,Desk 3,Home,234.84
+79,Chair 1,Home,139.79
+80,Chair 2,Home,130.85
+81,Chair 3,Home,285.07
+82,Bedding 1,Home,138.74
+83,Bedding 2,Home,296.45
+84,Bedding 3,Home,449.93
+85,Cookware 1,Home,205.71
+86,Cookware 2,Home,117.47
+87,Cookware 3,Home,498.79
+88,Utensils 1,Home,259.67
+89,Utensils 2,Home,54.55
+90,Utensils 3,Home,33.09
+91,Decor 1,Home,63.73
+92,Decor 2,Home,317.45
+93,Decor 3,Home,398.12
+94,Storage 1,Home,216.86
+95,Storage 2,Home,41.13
+96,Storage 3,Home,196.99
+97,Yoga Mat 1,Sports,498.1
+98,Yoga Mat 2,Sports,269.27
+99,Yoga Mat 3,Sports,485.83
+100,Dumbbells 1,Sports,431.78
